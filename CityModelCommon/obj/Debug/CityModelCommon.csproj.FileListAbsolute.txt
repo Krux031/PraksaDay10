@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\PraksaDay2Solution\CityModelCommon\bin\Debug\CityModelCommon.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityModelCommon\bin\Debug\CityModelCommon.pdb
+C:\Users\user\source\repos\PraksaDay2Solution\CityModelCommon\obj\Debug\CityModelCommon.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PraksaDay2Solution\CityModelCommon\obj\Debug\CityModelCommon.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PraksaDay2Solution\CityModelCommon\obj\Debug\CityModelCommon.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityModelCommon\obj\Debug\CityModelCommon.pdb
